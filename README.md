@@ -18,11 +18,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-### 🏆 My stats 
-
-![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haiderrjan&show_icons=true&theme=tokyonight)
-
-#
 
 <details>
  <summary><h3>Haider's coding journey</h3></summary>
