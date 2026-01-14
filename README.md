@@ -6,7 +6,7 @@
 
 ## 💻 About me 
 
--  Currently self-learning web development technologies like: Javascript, NodeJs, React
+-  Currently self-learning  development technologies like: Javascript, NodeJs, ExpressJs
 - 📚 Currently learning: Fullstack develepment front-end and back-end.
 - 🚀 Future goals: To make cool projects and learn more technologies !
 - 🎮 Fun Fact: An avid Gamer and loves fictional books ! 
