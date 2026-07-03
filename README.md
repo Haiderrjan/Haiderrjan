@@ -14,7 +14,7 @@
 #
 ### 🛠️ languages and tools 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) 
-![Javascipt](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white) 
+![Javascipt](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)) 
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
